@@ -1,5 +1,5 @@
 {
-  "name": "gtran-kml",
+  "name": "@smart/gtran-kml",
   "version": "1.4.5",
   "description": "convert geojson to kml file and backwards",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haoliangyu/gtran-kml.git"
+    "url": "git+https://github.com/Thunkar/gtran-kml.git"
   },
   "keywords": [
     "geojson",
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/haoliangyu/gtran-kml#readme",
   "dependencies": {
-    "@maphubs/tokml": "^0.5.2",
+    "@maphubs/tokml": "^0.6.0",
     "elementtree": "^0.1.7",
     "prettify-xml": "^1.2.0"
   },
